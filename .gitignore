@@ -1,0 +1,12 @@
+/build/
+/.gradle/
+/.idea/
+/docker/mysql/data/
+/docker/rabbitmq/data/
+/.classpath
+/.project
+/.settings/
+/.vscode/
+/.venv/
+/bin/
+.DS_Store
